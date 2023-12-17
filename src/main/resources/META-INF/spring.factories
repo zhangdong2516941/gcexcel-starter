@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.gcexcel.core.config.LicenseConfig ,\
+  com.github.gcexcel.core.utils.SecurityUtils
